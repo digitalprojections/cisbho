@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ieplugin1", "ieplugin1\ieplugin1.csproj", "{BD787A74-F05B-4BCC-BD95-F155620D399C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD787A74-F05B-4BCC-BD95-F155620D399C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD787A74-F05B-4BCC-BD95-F155620D399C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD787A74-F05B-4BCC-BD95-F155620D399C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD787A74-F05B-4BCC-BD95-F155620D399C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {193F82E4-5A2C-4733-A6EC-9BD3AEB34C4D}
+	EndGlobalSection
+EndGlobal

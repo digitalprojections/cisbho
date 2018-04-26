@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <assemblyIdentity name="MyIEAddon1, PublicKeyToken=8f487e0a523decd4" />
+  <loaderSettings generateLogFile="true" shadowCopyEnabled="false" privileges="administrator" configFileName="MyIEAddon1.dll.config" />
+</configuration>
