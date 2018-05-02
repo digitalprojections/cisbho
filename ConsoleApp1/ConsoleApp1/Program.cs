@@ -11,7 +11,12 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //output text to the screen
-            Console.WriteLine("The first app in Beginning Visual C# 2017!");
+            int myInteger;
+            string myString;
+            myInteger = 17;
+            myString = "\"myInteger\"is";
+            Console.WriteLine("{0} actually {1}.",myString, myInteger);
+            
             Console.ReadKey();
         }
     }
